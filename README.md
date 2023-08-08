@@ -60,3 +60,7 @@ For _src/routes/+page.svelte_, use this code instead (easier & less dependencies
     {/if}
 </form>
 ```
+
+You should have a working user login/profile like so :
+
+![step_1](https://github.com/jeremt/this-or-that/assets/1913169/8acf2881-abc4-4e1f-b7e7-1bf808812c58)
